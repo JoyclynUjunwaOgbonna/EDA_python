@@ -1,5 +1,5 @@
-Exploratory data analysis and data visualisation
+Exploratory data analysis, data visualisation and Classification.
 
 This has my work on a Medical insurance open data.
 
-The inference and insights are on the notebook.
+The inference, insights and best model are on the notebook.
